@@ -27,6 +27,8 @@ First see [Official "SDK"](http://www.swirlds.com/download/) which is the offici
 
 ## Reference Hashgraph projects
 
+* [Babble](https://github.com/babbleio/babble) A hashgraph-implementation in Go. Currently works for private networks.
+* [EVM-babble](https://github.com/babbleio/evm-babble) A babble wrapper for the Ethereum virtual machine to run solidity smart contracts backed by hashgraph.
 
 ## Other Resources
 
