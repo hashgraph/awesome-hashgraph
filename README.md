@@ -1,4 +1,4 @@
-# Awesome Hashgraph [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Join the chat at https://t.me/hashgraphdev](https://pbs.twimg.com/profile_images/913888681265594368/8nnTXvFD.jpg)](https://t.me/hashgraphdev)
+# Awesome Hashgraph [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Join the chat at https://t.me/hashgraphdev](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/hashgraphdev)
 
 A curated list of Hashgraph application code and other resources, inspired by other awesome lists.
 
