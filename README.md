@@ -32,6 +32,8 @@ First see [Official "SDK"](http://www.swirlds.com/download/) which is the offici
 
 ## Other Resources
 
+* [Exo Application Framework](https://github.com/craigdrabiktxmq/exo) Exo is an open-source framework for building applications on top of the Swirlds SDK.  Exo provides an easy way to receive transaction from applications via Java sockets or REST, a framework for organizing your business logic and transaction processing, and a mechanism for logging transactions to a blockchain data structure.
+** [Exo Zoo Demo](https://github.com/craigdrabiktxmq/exo-demo) A demonstration application that shows an AngularJS application communicating with a hashgraph via REST and Java sockets.
 
 ## License
 
