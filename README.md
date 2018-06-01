@@ -20,7 +20,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## Communities
 
-* [General Telegram]
+* [General Telegram](https://t.me/hashgraph)
+* [Developer Chat](https://hashgraph.com/discord)
 
 ## Reference Hashgraph projects
 
