@@ -14,24 +14,24 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## Official Hashgraph Sites
 
-* [Hedera](https://hedera.com) - the only public network authorized to implement the hashgraph algorithm.
-* [Hedera Portal](https://portal.hedera.com) - the official portal site for Hedera users.
-* [Hedera Docs](https://docs.hedera.com/) - the official documentation website for Hedera and hashgraph.
-* [Swirlds SDK](http://www.swirlds.com/download/) - the official Swirlds SDK. Swirlds is the only authorized consensus platform that implements hashgraph. Includes the swirlds.jar and a number of sample Applications.
+* ![official](https://i.imgur.com/y8jwGLa.png) [Hedera](https://hedera.com) - the only public network authorized to implement the hashgraph algorithm.
+* ![official](https://i.imgur.com/y8jwGLa.png) [Hedera Portal](https://portal.hedera.com) - the official portal site for Hedera users.
+* ![official](https://i.imgur.com/y8jwGLa.png) [Hedera Docs](https://docs.hedera.com/) - the official documentation website for Hedera and hashgraph.
+* ![official](https://i.imgur.com/y8jwGLa.png) [Swirlds SDK](http://www.swirlds.com/download/) - the official Swirlds SDK. Swirlds is the only authorized consensus platform that implements hashgraph. Includes the swirlds.jar and a number of sample Applications.
 
 ## Hedera Tools
 
-* [Hedera Java SDK](https://github.com/hashgraph/hedera-sdk-java) - the official Java SDK for interacting with Hedera Hashgraph. Built and maintained by Hedera LLC.
+* ![official](https://i.imgur.com/y8jwGLa.png) [Hedera Java SDK](https://github.com/hashgraph/hedera-sdk-java) - the official Java SDK for interacting with Hedera Hashgraph. Built and maintained by Hedera LLC.
 * [Hedera Rust SDK](https://github.com/launchbadge/hedera-sdk-rust) - the community-maintained Rust SDK for interacting with Hedera Hashgraph.
 * [Hedera Go SDK](https://github.com/launchbadge/hedera-sdk-go) - the community-maintained Go SDK for interacting with Hedera Hashgraph.
 * [Hedera Java Keygen Tool](https://github.com/hashgraph/hedera-keygen-java) - a command line utility for managing ED25519 key pairs for use with Hedera Hashgraph.
 
 ## Communities
 
-* [Official Hedera General Telegram](https://t.me/hashgraph)
-* [Official Hedera Developer Chat](https://hedera.com/discord)
-* [Official Hedera Medium](https://medium.com/hashgraph)
-* [Official Hedera Twitter](https://twitter.com/hashgraph)
+* ![official](https://i.imgur.com/y8jwGLa.png) [Official Hedera General Telegram](https://t.me/hashgraph)
+* ![official](https://i.imgur.com/y8jwGLa.png) [Official Hedera Developer Chat](https://hedera.com/discord)
+* ![official](https://i.imgur.com/y8jwGLa.png) [Official Hedera Medium](https://medium.com/hashgraph)
+* ![official](https://i.imgur.com/y8jwGLa.png) [Official Hedera Twitter](https://twitter.com/hashgraph)
 
 ## Reference Hashgraph projects
 
@@ -41,3 +41,5 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+![official](https://i.imgur.com/y8jwGLa.png) = Officially maintained by Hedera
