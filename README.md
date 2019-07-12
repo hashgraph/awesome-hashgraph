@@ -24,6 +24,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * ![official](https://i.imgur.com/y8jwGLa.png) [Hedera Java SDK](https://github.com/hashgraph/hedera-sdk-java) - the official Java SDK for interacting with Hedera Hashgraph. Built and maintained by Hedera LLC.
 * [Hedera Rust SDK](https://github.com/launchbadge/hedera-sdk-rust) - the community-maintained Rust SDK for interacting with Hedera Hashgraph.
 * [Hedera Go SDK](https://github.com/launchbadge/hedera-sdk-go) - the community-maintained Go SDK for interacting with Hedera Hashgraph.
+* [Hedera .NET SDK](https://github.com/bugbytesinc/Hashgraph) - the community-maintained .NET SDK for interacting with Hedera Hashgraph.
 * [Hedera Java Keygen Tool](https://github.com/hashgraph/hedera-keygen-java) - a command line utility for managing ED25519 key pairs for use with Hedera Hashgraph.
 
 ## Communities
