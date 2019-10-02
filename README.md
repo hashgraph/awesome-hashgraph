@@ -26,6 +26,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [Hedera Go SDK](https://github.com/launchbadge/hedera-sdk-go) - the community-maintained Go SDK for interacting with Hedera Hashgraph.
 * [Hedera .NET SDK](https://github.com/bugbytesinc/Hashgraph) - the community-maintained .NET SDK for interacting with Hedera Hashgraph.
 * [Hedera Java Keygen Tool](https://github.com/hashgraph/hedera-keygen-java) - a command line utility for managing ED25519 key pairs for use with Hedera Hashgraph.
+* [Composer For Hedera Hashgraph](https://chrome.google.com/webstore/detail/composer-for-hedera-hashg/hdjnnemgikeoehneddegfcmkljenlean) - a community maintained tool to interact with Hedera from the Chrome environment.
 
 ## Communities
 
