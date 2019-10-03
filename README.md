@@ -7,9 +7,9 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 ## Table of Contents
 
 - [Official Hashgraph Sites](#official-hashgraph-sites)
-- [Hedera Tools](#hedera-tools)
-- [Hashgraph Communities](#communities)
-- [Reference Hashgraph projects](#reference-hashgraph-projects)
+- [Open Source](#open-source)
+- [Communities](#communities)
+- [Projects](#projects)
 - [License](#license)
 
 ## Official Hashgraph Sites
@@ -19,14 +19,18 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * ![official](https://i.imgur.com/y8jwGLa.png) [Hedera Docs](https://docs.hedera.com/) - the official documentation website for Hedera and hashgraph.
 * ![official](https://i.imgur.com/y8jwGLa.png) [Swirlds SDK](http://www.swirlds.com/download/) - the official Swirlds SDK. Swirlds is the only authorized consensus platform that implements hashgraph. Includes the swirlds.jar and a number of sample Applications.
 
-## Hedera Tools
+## Open Source
 
-* ![official](https://i.imgur.com/y8jwGLa.png) [Hedera Java SDK](https://github.com/hashgraph/hedera-sdk-java) - the official Java SDK for interacting with Hedera Hashgraph. Built and maintained by Hedera LLC.
-* [Hedera Rust SDK](https://github.com/launchbadge/hedera-sdk-rust) - the community-maintained Rust SDK for interacting with Hedera Hashgraph.
-* [Hedera Go SDK](https://github.com/launchbadge/hedera-sdk-go) - the community-maintained Go SDK for interacting with Hedera Hashgraph.
-* [Hedera .NET SDK](https://github.com/bugbytesinc/Hashgraph) - the community-maintained .NET SDK for interacting with Hedera Hashgraph.
-* [Hedera Java Keygen Tool](https://github.com/hashgraph/hedera-keygen-java) - a command line utility for managing ED25519 key pairs for use with Hedera Hashgraph.
 * [Composer For Hedera Hashgraph](https://chrome.google.com/webstore/detail/composer-for-hedera-hashg/hdjnnemgikeoehneddegfcmkljenlean) - a community maintained tool to interact with Hedera from the Chrome environment.
+* [Exo-Demo](https://github.com/craigdrabiktxmq/exo-demo) - a demonstration of a web application communicating with a Swirld. The application tracks lions, tigers, and bears in a zoo. Users can add animals to the zoo and see the updated state. The zoo state is tracked in a Swirld, and adding an animal executes a transaction on the Swirld.
+* [Hedera .NET SDK](https://github.com/bugbytesinc/Hashgraph) - the community-maintained .NET SDK for interacting with Hedera Hashgraph.
+* [Hedera Go SDK](https://github.com/launchbadge/hedera-sdk-go) - the community-maintained Go SDK for interacting with Hedera Hashgraph.
+* ![official](https://i.imgur.com/y8jwGLa.png) [Hedera Java SDK](https://github.com/hashgraph/hedera-sdk-java) - the official Java SDK for interacting with Hedera Hashgraph. Built and maintained by Hedera LLC.
+* ![official](https://i.imgur.com/y8jwGLa.png) [Hedera JavaScript SDK](https://github.com/hashgraph/hedera-sdk-js) - the official JavaScript SDK for interacting with Hedera Hashgraph. Built and maintained by Hedera LLC.
+* [Hedera Java Keygen Tool](https://github.com/hashgraph/hedera-keygen-java) - a command line utility for managing ED25519 key pairs for use with Hedera Hashgraph.
+* [Hedera Rust SDK](https://github.com/launchbadge/hedera-sdk-rust) - the community-maintained Rust SDK for interacting with Hedera Hashgraph.
+* [Hyperledger Mercury](https://github.com/hashgraph/hyperledger-mercury) - a community driven open source project geared at building a Hyperledger stack on top of the Swirlds platform.
+* ![official](https://i.imgur.com/y8jwGLa.png) [MyHbarWallet](https://github.com/hashgraph/MyHbarWallet) - a free, client-side interface helping you interact with Hedera Hashgraph.
 
 ## Communities
 
@@ -35,10 +39,12 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * ![official](https://i.imgur.com/y8jwGLa.png) [Official Hedera Medium](https://medium.com/hashgraph)
 * ![official](https://i.imgur.com/y8jwGLa.png) [Official Hedera Twitter](https://twitter.com/hashgraph)
 
-## Reference Hashgraph projects
+## Projects
+These are projects built on top of Hedera or using Swirlds.
 
-* [Hyperledger Mercury](https://github.com/hashgraph/hyperledger-mercury) This is a community driven open source project geared at building a Hyperledger stack on top of the Swirlds platform.
-* [Exo-Demo](https://github.com/craigdrabiktxmq/exo-demo) This project contains a demonstration of a web application communicating with a Swirld. The application tracks lions, tigers, and bears in a zoo. Users can add animals to the zoo and see the updated state. The zoo state is tracked in a Swirld, and adding an animal executes a transaction on the Swirld.
+* [Hash-Hash Explorer](https://hash-hash.info) - the first explorer of Hedera Hashgraph.
+* [Kabuto](https://docs.kabuto.sh/) - developer-centric API for accessing Hedera Hashgraph data such as account, transaction and balance information. Currently in beta.
+* [MyHbarWallet.com](https://myhbarwallet.com/) - a hosted implementation of the MyHbarWallet open source project.
 
 ## License
 
