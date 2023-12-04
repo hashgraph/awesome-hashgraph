@@ -10,6 +10,7 @@ A curated list of Hashgraph application code and other resources, inspired by ot
 - [Hedera Projects](#hedera-projects)
 - [Swirlds Open Source](#hedera-open-source)
 - [Communities](#communities)
+- [Articles and Presentations](#articles-and-presentations)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -110,6 +111,11 @@ Featuring open source projects in the [Swirlds](https://www.swirlds.com/) ecosys
 * ![official](https://i.imgur.com/y8jwGLa.png) [Hedera's Developer Chat](https://hedera.com/discord)
 * ![official](https://i.imgur.com/y8jwGLa.png) [Hedera's Medium](https://medium.com/hashgraph)
 * ![official](https://i.imgur.com/y8jwGLa.png) [Hedera's Twitter](https://twitter.com/hashgraph)
+
+## [Articles and Presentations](#articles-and-presentations)
+
+* [Ethereum Virtual Machine on Hedera](https://blog.bguiz.com/presentations/evm-on-hedera/) - 19/05/2023
+* [Account Abstraction on EVM-compatible networks: Hedera and Ethereum](https://blog.bguiz.com/presentations/evm-on-hedera/) - 13/09/2023
 
 ## [Contributing](#contributing)
 We're always looking for awesome projects that showcase hashgraph! If you know of anything missing here, please [submit a pull request](https://github.com/hashgraph/awesome-hashgraph/pulls)!
