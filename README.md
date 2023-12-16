@@ -110,7 +110,9 @@ Featuring open source projects in the [Swirlds](https://www.swirlds.com/) ecosys
 * ![official](https://i.imgur.com/y8jwGLa.png) [Hedera's General Telegram](https://t.me/hashgraph)
 * ![official](https://i.imgur.com/y8jwGLa.png) [Hedera's Developer Chat](https://hedera.com/discord)
 * ![official](https://i.imgur.com/y8jwGLa.png) [Hedera's Medium](https://medium.com/hashgraph)
-* ![official](https://i.imgur.com/y8jwGLa.png) [Hedera's Twitter](https://twitter.com/hashgraph)
+* ![official](https://i.imgur.com/y8jwGLa.png) [Hedera's Twitter](https://twitter.com/hedera)
+* ![official](https://i.imgur.com/y8jwGLa.png) [Hedera Status Twitter](https://twitter.com/hashgraph)
+* [Hedera on Stackoverflow](https://stackoverflow.com/questions/tagged/hedera) (Stackoverflow tag)
 
 ## [Articles and Presentations](#articles-and-presentations)
 
