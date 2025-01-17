@@ -17,23 +17,25 @@ A curated list of Hashgraph application code and other resources, inspired by ot
 ## [Official Hashgraph Sites](#official-hashgraph-sites)
 
 * [Hedera](https://hedera.com) - the only public network authorized to implement the hashgraph algorithm.
+* [Hashgraph](https://www.hashgraph.com/) - Hashgraph supports the ongoing growth and development of Hedera.
 * [Swirlds](http://www.swirlds.com/) - inventors of the hashgraph consensus algorithm, offering licenses to use it in permissioned environments.
 
 ## [Reference Key](#key)
 
-![official](https://i.imgur.com/y8jwGLa.png) = Projects officially maintained by Hedera Hashgraph LLC.
+![official](https://i.imgur.com/y8jwGLa.png) = Projects officially maintained by Hashgraph.
 
 ## [Hedera Open Source](#hedera-open-source)
 
-This section features open source projects in the [Hedera Hashgraph](https://www.hedera.com) ecosystem. 
+This section features open source projects in the [Hedera](https://www.hedera.com) ecosystem.
 
 **Software development kits (SDKs)**
 
-* ![official](https://i.imgur.com/y8jwGLa.png) [Hedera Java SDK](https://github.com/hashgraph/hedera-sdk-java) - the official Java SDK for interacting with Hedera Hashgraph.
-* ![official](https://i.imgur.com/y8jwGLa.png) [Hedera JavaScript SDK](https://github.com/hashgraph/hedera-sdk-js) - the official JavaScript SDK for interacting with Hedera Hashgraph. 
-* [Hedera .NET SDK](https://github.com/bugbytesinc/Hashgraph) - the community-maintained .NET SDK for interacting with Hedera Hashgraph.
-* [Hedera Go SDK](https://github.com/launchbadge/hedera-sdk-go) - the community-maintained Go SDK for interacting with Hedera Hashgraph.
-* [Hedera Rust SDK](https://github.com/launchbadge/hedera-sdk-rust) - the community-maintained Rust SDK for interacting with Hedera Hashgraph.
+* ![official](https://i.imgur.com/y8jwGLa.png) [Hedera Java SDK](https://github.com/hashgraph/hedera-sdk-java) - the official Java SDK for interacting with Hedera.
+* ![official](https://i.imgur.com/y8jwGLa.png) [Hedera JavaScript SDK](https://github.com/hiero-ledger/hiero-sdk-js) - the official JavaScript SDK for interacting with Hedera.
+* ![official](https://i.imgur.com/y8jwGLa.png) [Hedera Go SDK](https://github.com/hiero-ledger/hiero-sdk-go) - the official Go SDK for interacting with Hedera.
+* ![official](https://i.imgur.com/y8jwGLa.png) [Hedera Swift SDK](https://github.com/hashgraph/hedera-sdk-swift) - the official Swift SDK for interacting with Hedera.
+* ![official](https://i.imgur.com/y8jwGLa.png) [Hedera Rust SDK](https://github.com/launchbadge/hedera-sdk-rust) - the official Rust SDK for interacting with Hedera.
+* ![official](https://i.imgur.com/y8jwGLa.png) [Hedera C++ SDK](https://github.com/hiero-ledger/hiero-sdk-cpp) - the official C++ SDK for interacting with Hedera.
 
 **Open source Hedera dev tools**
 
@@ -48,13 +50,13 @@ This section features open source projects in the [Hedera Hashgraph](https://www
 * ![official](https://i.imgur.com/y8jwGLa.png) [Hedera Android Wallet](https://github.com/hashgraph/hedera-wallet-android) - The open source Hedera Wallet for Android lets you manage HBAR and create accounts on the Hedera mainnet.
 * ![official](https://i.imgur.com/y8jwGLa.png) [Hedera Browser Extension](https://github.com/hashgraph/hedera-browser-extension) - A wallet, implemented as a chrome extension, for consumers to use their Hedera account for micropayments (deprecated).
 * ![official](https://i.imgur.com/y8jwGLa.png) [Hedera WordPress Plugin](https://github.com/hashgraph/hedera-micropayment) - Wordpress plugin, demonstrating Hedera micropayments seamlessly connected to the Hedera Browser Extension (deprecated).
-* [Hedera Leger App](https://github.com/hashgraph/ledger-app-hedera) - Hedera wallet application for Ledger Nano S
+* [Hedera Ledger App](https://github.com/hashgraph/ledger-app-hedera) - Hedera wallet application for Ledger Nano S
 * [Hash Name Service](https://github.com/hashingsystems/HNS) - Replace your Hedera ID with human-readable names. Register your name before someone else does!
 * [Hash.js](https://github.com/hashingsystems/hash.js) - A micropayment service javascript embeddable library.
 * ![official](https://i.imgur.com/y8jwGLa.png) [Hedera CLI](https://github.com/hashgraph/hedera-cli) - A simple, open source, command line interface for interacting with both the Hedera Mainnet and Testnet.
 
 ## [Hedera Projects](#hedera-projects)
-Featuring projects built on top of the [Hedera Hashgraph](https://www.hedera.com) network. 
+Featuring projects built on top of the [Hedera](https://www.hedera.com) network.
 
 **Advertising**
 
@@ -79,7 +81,7 @@ Featuring projects built on top of the [Hedera Hashgraph](https://www.hedera.com
 * [DragonGlass](https://app.dragonglass.me/hedera/apiview) - Providing developers with REST-based APIs for all Transactions, Accounts, and Smart Contract Information generated in Hedera Hashgraph.
 * [Kabuto](https://docs.kabuto.sh/) - Developer-centric API for accessing Hedera Hashgraph data such as account, transaction, and balance information. Currently in beta.
 
-**Pharmaceuticals** 
+**Pharmaceuticals**
 
 * [OpenPharma](https://www.hedera.com/users/certara) - An industry-first Open API software platform for pharma and life sciences, built by [Certara](https://www.certara.com/).
 
@@ -97,10 +99,10 @@ Featuring projects built on top of the [Hedera Hashgraph](https://www.hedera.com
 
 **General**
 
-* [Hash Name Service](https://hns.domains/) - Replace your Hedera ID with human-readable names. 
+* [Hash Name Service](https://hns.domains/) - Replace your Hedera ID with human-readable names.
 
 ## [Swirlds Open Source](#swirlds-open-source)
-Featuring open source projects in the [Swirlds](https://www.swirlds.com/) ecosystem. 
+Featuring open source projects in the [Swirlds](https://www.swirlds.com/) ecosystem.
 
 * [Hyperledger Mercury](https://github.com/hashgraph/hyperledger-mercury) - A community-driven open source project geared at building a Hyperledger stack on top of the Swirlds platform.
 * [Exo-Demo](https://github.com/craigdrabiktxmq/exo-demo) - A demonstration of a web application communicating with a Swirld. The application tracks lions, tigers, and bears in a zoo. Users can add animals to the zoo and see the updated state. The zoo state is tracked in a Swirld, and adding an animal executes a transaction on the Swirld.
